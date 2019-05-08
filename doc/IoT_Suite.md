@@ -1,6 +1,6 @@
-## Applying an Azure Trail Account
+## Applying an Azure Trial Account
 
-1. Go to [Azure IoT Suite](https://www.azure.cn/en-us/home/features/iot-suite/) and click on 1RMB Trail.
+1. Go to [Azure IoT Suite](https://www.azure.cn/en-us/home/features/iot-suite/) and click on 1RMB Trial.
 
 	![](_static/IoT_Suite.png)
 	
